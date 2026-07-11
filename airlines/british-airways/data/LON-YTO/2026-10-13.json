@@ -1,10 +1,9 @@
 {
   "airline": "BA",
   "origin": "LON",
-  "destination": "YMQ",
-  "departureDate": "2026-07-12",
+  "destination": "YTO",
+  "departureDate": "2026-10-13",
   "cabinsAvailable": [
-    "W",
     "C"
   ]
 }
