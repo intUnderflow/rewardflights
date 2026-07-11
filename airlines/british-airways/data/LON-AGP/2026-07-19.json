@@ -4,6 +4,7 @@
   "destination": "AGP",
   "departureDate": "2026-07-19",
   "cabinsAvailable": [
+    "M",
     "C"
   ]
 }

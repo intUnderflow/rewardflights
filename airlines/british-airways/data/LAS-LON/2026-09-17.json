@@ -2,10 +2,8 @@
   "airline": "BA",
   "origin": "LAS",
   "destination": "LON",
-  "departureDate": "2026-07-18",
+  "departureDate": "2026-09-17",
   "cabinsAvailable": [
-    "M",
-    "W",
-    "C"
+    "M"
   ]
 }
