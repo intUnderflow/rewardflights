@@ -1,8 +1,8 @@
 {
   "airline": "BA",
   "origin": "LON",
-  "destination": "TCI",
-  "departureDate": "2026-07-26",
+  "destination": "ZAG",
+  "departureDate": "2026-08-02",
   "cabinsAvailable": [
     "C"
   ]
