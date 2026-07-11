@@ -4,7 +4,6 @@
   "destination": "FSC",
   "departureDate": "2026-08-20",
   "cabinsAvailable": [
-    "M",
     "C"
   ]
 }

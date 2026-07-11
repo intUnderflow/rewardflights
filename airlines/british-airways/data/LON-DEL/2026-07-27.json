@@ -4,6 +4,7 @@
   "destination": "DEL",
   "departureDate": "2026-07-27",
   "cabinsAvailable": [
-    "M"
+    "M",
+    "C"
   ]
 }
