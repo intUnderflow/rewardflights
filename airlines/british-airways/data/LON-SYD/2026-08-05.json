@@ -4,6 +4,7 @@
   "destination": "SYD",
   "departureDate": "2026-08-05",
   "cabinsAvailable": [
+    "W",
     "C"
   ]
 }

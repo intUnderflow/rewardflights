@@ -1,7 +1,7 @@
 {
   "airline": "BA",
   "origin": "LON",
-  "destination": "SLU",
+  "destination": "TIA",
   "departureDate": "2026-07-14",
   "cabinsAvailable": [
     "C"
