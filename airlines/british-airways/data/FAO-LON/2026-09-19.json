@@ -1,8 +1,8 @@
 {
   "airline": "BA",
-  "origin": "DUS",
+  "origin": "FAO",
   "destination": "LON",
-  "departureDate": "2026-07-23",
+  "departureDate": "2026-09-19",
   "cabinsAvailable": [
     "C"
   ]
