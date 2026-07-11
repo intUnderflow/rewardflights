@@ -4,6 +4,7 @@
   "destination": "GND",
   "departureDate": "2027-01-03",
   "cabinsAvailable": [
-    "M"
+    "M",
+    "W"
   ]
 }
