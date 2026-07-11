@@ -1,10 +1,9 @@
 {
   "airline": "BA",
-  "origin": "PHL",
+  "origin": "PVK",
   "destination": "LON",
-  "departureDate": "2026-07-13",
+  "departureDate": "2026-07-26",
   "cabinsAvailable": [
-    "M",
-    "W"
+    "C"
   ]
 }
