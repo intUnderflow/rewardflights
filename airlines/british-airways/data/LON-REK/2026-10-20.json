@@ -4,7 +4,6 @@
   "destination": "REK",
   "departureDate": "2026-10-20",
   "cabinsAvailable": [
-    "M",
-    "C"
+    "M"
   ]
 }

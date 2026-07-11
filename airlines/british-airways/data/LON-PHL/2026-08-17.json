@@ -1,9 +1,0 @@
-{
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "PHL",
-  "departureDate": "2026-08-17",
-  "cabinsAvailable": [
-    "C"
-  ]
-}
