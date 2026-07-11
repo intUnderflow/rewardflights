@@ -4,6 +4,7 @@
   "destination": "LUX",
   "departureDate": "2026-12-09",
   "cabinsAvailable": [
+    "M",
     "C"
   ]
 }
