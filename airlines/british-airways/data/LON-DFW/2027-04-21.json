@@ -1,0 +1,11 @@
+{
+  "airline": "BA",
+  "origin": "LON",
+  "destination": "DFW",
+  "departureDate": "2027-04-21",
+  "cabinsAvailable": [
+    "M",
+    "W",
+    "C"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "airline": "BA",
+  "origin": "LON",
+  "destination": "CHI",
+  "departureDate": "2026-08-11",
+  "cabinsAvailable": [
+    "C"
+  ]
+}
