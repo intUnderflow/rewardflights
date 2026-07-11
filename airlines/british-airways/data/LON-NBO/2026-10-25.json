@@ -4,6 +4,7 @@
   "destination": "NBO",
   "departureDate": "2026-10-25",
   "cabinsAvailable": [
-    "M"
+    "M",
+    "C"
   ]
 }

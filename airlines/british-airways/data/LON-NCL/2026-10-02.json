@@ -4,6 +4,7 @@
   "destination": "NCL",
   "departureDate": "2026-10-02",
   "cabinsAvailable": [
+    "M",
     "C"
   ]
 }
