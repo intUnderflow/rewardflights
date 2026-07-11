@@ -35,7 +35,7 @@ times, and per‑cabin seat counts).
 
 ## License
 
-Licensed under the [Open Database License (ODbL) v1.0](LICENSE) — free to copy, share, and adapt, provided any **adapted database** you publicly distribute is also licensed under ODbL (share-alike), with
+The **database** is licensed under the [Open Database License (ODbL) v1.0](LICENSE); any **individual contents** under the [Database Contents License (DbCL) v1.0](DbCL-1.0.txt) — free to copy, share, and adapt, provided any **adapted database** you publicly distribute is also licensed under ODbL (share-alike), with
 attribution. Provided **as‑is**, with no warranty; see the license for the full disclaimer of
 warranties and limitation of liability.
 
