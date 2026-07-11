@@ -1,8 +1,8 @@
 {
   "airline": "BA",
-  "origin": "PEG",
+  "origin": "PMO",
   "destination": "LON",
-  "departureDate": "2026-08-18",
+  "departureDate": "2026-08-26",
   "cabinsAvailable": [
     "M"
   ]
