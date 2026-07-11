@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "ANU",
-  "departureDate": "2027-01-03",
   "cabinsAvailable": [
     "M",
     "W"

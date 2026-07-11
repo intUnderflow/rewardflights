@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "PVK",
-  "destination": "LON",
-  "departureDate": "2026-07-12",
   "cabinsAvailable": [
     "M",
     "C"

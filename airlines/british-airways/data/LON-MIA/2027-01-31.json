@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "MIA",
-  "departureDate": "2027-01-31",
   "cabinsAvailable": [
     "M"
   ]

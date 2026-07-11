@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "MUC",
-  "destination": "LON",
-  "departureDate": "2026-09-08",
   "cabinsAvailable": [
     "M",
     "C"

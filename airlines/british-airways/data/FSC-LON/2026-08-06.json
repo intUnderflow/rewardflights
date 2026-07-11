@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "FSC",
-  "destination": "LON",
-  "departureDate": "2026-08-06",
   "cabinsAvailable": [
     "M",
     "C"

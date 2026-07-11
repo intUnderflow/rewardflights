@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "YMQ",
-  "departureDate": "2027-04-20",
   "cabinsAvailable": [
     "M",
     "W",

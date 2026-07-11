@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "OSL",
-  "departureDate": "2026-09-22",
   "cabinsAvailable": [
     "M",
     "C"

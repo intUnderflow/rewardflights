@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "SSH",
-  "destination": "LON",
-  "departureDate": "2027-04-22",
   "cabinsAvailable": [
     "M",
     "C"

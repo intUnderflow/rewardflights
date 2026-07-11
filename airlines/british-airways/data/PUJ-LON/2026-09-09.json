@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "PUJ",
-  "destination": "LON",
-  "departureDate": "2026-09-09",
   "cabinsAvailable": [
     "C"
   ]

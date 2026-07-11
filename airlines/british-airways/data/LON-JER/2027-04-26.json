@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "JER",
-  "departureDate": "2027-04-26",
   "cabinsAvailable": [
     "M",
     "C"

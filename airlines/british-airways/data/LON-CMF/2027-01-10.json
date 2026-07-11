@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "CMF",
-  "departureDate": "2027-01-10",
   "cabinsAvailable": [
     "M",
     "C"

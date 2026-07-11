@@ -1,11 +1,6 @@
 {
-  "airline": "BA",
-  "origin": "SEA",
-  "destination": "LON",
-  "departureDate": "2026-11-16",
   "cabinsAvailable": [
     "M",
-    "W",
-    "C"
+    "W"
   ]
 }

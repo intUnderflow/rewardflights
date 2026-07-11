@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "PSA",
-  "destination": "LON",
-  "departureDate": "2027-04-03",
   "cabinsAvailable": [
     "M",
     "C"

@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "KUL",
-  "destination": "LON",
-  "departureDate": "2026-07-13",
   "cabinsAvailable": [
     "W",
     "C",

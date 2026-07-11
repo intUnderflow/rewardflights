@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "SYD",
-  "departureDate": "2027-03-16",
   "cabinsAvailable": [
     "M",
     "W",

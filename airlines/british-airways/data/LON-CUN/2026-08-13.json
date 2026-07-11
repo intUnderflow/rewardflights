@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "CUN",
-  "departureDate": "2026-08-13",
   "cabinsAvailable": [
     "W",
     "C"

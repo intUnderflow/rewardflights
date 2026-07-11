@@ -1,11 +1,6 @@
 {
-  "airline": "BA",
-  "origin": "PIT",
-  "destination": "LON",
-  "departureDate": "2026-08-16",
   "cabinsAvailable": [
     "M",
-    "W",
     "C"
   ]
 }

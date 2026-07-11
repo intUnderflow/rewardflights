@@ -1,11 +1,6 @@
 {
-  "airline": "BA",
-  "origin": "DFW",
-  "destination": "LON",
-  "departureDate": "2026-08-05",
   "cabinsAvailable": [
     "M",
-    "W",
     "C"
   ]
 }

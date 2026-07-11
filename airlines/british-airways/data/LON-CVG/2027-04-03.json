@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "CVG",
-  "departureDate": "2027-04-03",
   "cabinsAvailable": [
     "M",
     "W",

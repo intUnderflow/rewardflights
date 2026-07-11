@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "SFO",
-  "departureDate": "2026-12-29",
   "cabinsAvailable": [
     "M",
     "W",

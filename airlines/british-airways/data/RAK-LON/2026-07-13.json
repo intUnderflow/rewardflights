@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "RAK",
-  "destination": "LON",
-  "departureDate": "2026-07-13",
   "cabinsAvailable": [
     "M",
     "C"

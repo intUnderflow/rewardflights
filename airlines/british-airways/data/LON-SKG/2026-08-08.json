@@ -1,9 +1,6 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "SKG",
-  "departureDate": "2026-08-08",
   "cabinsAvailable": [
-    "M"
+    "M",
+    "C"
   ]
 }

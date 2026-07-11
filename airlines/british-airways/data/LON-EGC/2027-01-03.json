@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "EGC",
-  "departureDate": "2027-01-03",
   "cabinsAvailable": [
     "M",
     "C"

@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "STO",
-  "departureDate": "2027-02-12",
   "cabinsAvailable": [
     "M",
     "C"

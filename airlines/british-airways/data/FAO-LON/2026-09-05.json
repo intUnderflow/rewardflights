@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "FAO",
-  "destination": "LON",
-  "departureDate": "2026-09-05",
   "cabinsAvailable": [
     "M",
     "C"

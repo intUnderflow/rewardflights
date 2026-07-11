@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "AGA",
-  "departureDate": "2026-11-17",
   "cabinsAvailable": [
     "M",
     "C"

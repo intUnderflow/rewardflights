@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "YTO",
-  "destination": "LON",
-  "departureDate": "2027-01-04",
   "cabinsAvailable": [
     "M",
     "W",

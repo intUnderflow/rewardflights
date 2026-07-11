@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "DUB",
-  "destination": "LON",
-  "departureDate": "2027-05-15",
   "cabinsAvailable": [
     "M",
     "C"

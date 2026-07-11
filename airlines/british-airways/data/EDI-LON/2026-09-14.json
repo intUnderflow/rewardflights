@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "EDI",
-  "destination": "LON",
-  "departureDate": "2026-09-14",
   "cabinsAvailable": [
     "M",
     "C"

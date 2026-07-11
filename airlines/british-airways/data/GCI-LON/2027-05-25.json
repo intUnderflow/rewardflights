@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "GCI",
-  "destination": "LON",
-  "departureDate": "2027-05-25",
   "cabinsAvailable": [
     "M",
     "C"

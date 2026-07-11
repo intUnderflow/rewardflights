@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "ANU",
-  "destination": "SKB",
-  "departureDate": "2026-11-17",
   "cabinsAvailable": [
     "M",
     "W",

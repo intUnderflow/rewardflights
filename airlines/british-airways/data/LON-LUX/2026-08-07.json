@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "LUX",
-  "departureDate": "2026-08-07",
   "cabinsAvailable": [
     "C"
   ]

@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "ACE",
-  "departureDate": "2026-07-17",
   "cabinsAvailable": [
     "M",
     "C"

@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "ZRH",
-  "departureDate": "2026-12-20",
   "cabinsAvailable": [
     "M",
     "C"

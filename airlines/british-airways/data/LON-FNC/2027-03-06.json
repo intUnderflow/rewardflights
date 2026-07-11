@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "FNC",
-  "departureDate": "2027-03-06",
   "cabinsAvailable": [
     "M",
     "C"

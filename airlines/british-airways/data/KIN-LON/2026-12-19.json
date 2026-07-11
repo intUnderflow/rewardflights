@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "KIN",
-  "destination": "LON",
-  "departureDate": "2026-12-19",
   "cabinsAvailable": [
     "M",
     "C"

@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "YVR",
-  "departureDate": "2026-09-04",
   "cabinsAvailable": [
     "W"
   ]

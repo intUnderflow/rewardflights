@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "TIA",
-  "destination": "LON",
-  "departureDate": "2027-02-15",
   "cabinsAvailable": [
     "M",
     "C"

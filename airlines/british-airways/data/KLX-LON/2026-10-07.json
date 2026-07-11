@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "KLX",
-  "destination": "LON",
-  "departureDate": "2026-10-07",
   "cabinsAvailable": [
     "M",
     "C"

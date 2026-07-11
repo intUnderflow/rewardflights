@@ -28,10 +28,8 @@ re-committed only when its availability changes, so **the git history of each fi
 
 ```jsonc
 {
-  "airline": "BA",                     // always "BA" in this folder
-  "origin": "LON",                     // departure metro (IATA metropolitan / city code)
-  "destination": "TYO",                // arrival metro
-  "departureDate": "2026-10-15",       // local departure date, ISO YYYY-MM-DD
+  // airline / origin / destination / departureDate are encoded in the PATH (see Layout above),
+  // so they are NOT repeated inside the file — the file carries only the availability payload.
   "cabinsAvailable": ["M", "W", "C"],  // cabins with award availability on this date (see Cabin codes)
   "flights": [ Flight, ... ]           // OPTIONAL — per-flight (airport-level) detail, present when
                                        //   available for this route + date

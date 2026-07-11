@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "CHI",
-  "departureDate": "2026-12-23",
   "cabinsAvailable": [
     "M",
     "W",

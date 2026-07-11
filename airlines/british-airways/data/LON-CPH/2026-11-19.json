@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "CPH",
-  "departureDate": "2026-11-19",
   "cabinsAvailable": [
     "M",
     "C"

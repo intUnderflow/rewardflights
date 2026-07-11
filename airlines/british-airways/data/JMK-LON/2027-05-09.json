@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "JMK",
-  "destination": "LON",
-  "departureDate": "2027-05-09",
   "cabinsAvailable": [
     "M",
     "C"

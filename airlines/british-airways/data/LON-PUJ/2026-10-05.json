@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "PUJ",
-  "departureDate": "2026-10-05",
   "cabinsAvailable": [
     "M",
     "W",

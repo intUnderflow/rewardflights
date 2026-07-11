@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "PMI",
-  "destination": "LON",
-  "departureDate": "2027-04-08",
   "cabinsAvailable": [
     "M",
     "C"

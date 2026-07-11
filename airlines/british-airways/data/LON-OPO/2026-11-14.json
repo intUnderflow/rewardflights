@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "OPO",
-  "departureDate": "2026-11-14",
   "cabinsAvailable": [
     "M",
     "C"

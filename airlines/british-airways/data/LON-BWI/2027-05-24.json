@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "BWI",
-  "departureDate": "2027-05-24",
   "cabinsAvailable": [
     "M",
     "W",

@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "BLL",
-  "departureDate": "2026-11-05",
   "cabinsAvailable": [
     "M",
     "C"

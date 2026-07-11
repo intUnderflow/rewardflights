@@ -1,8 +1,4 @@
 {
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "ROM",
-  "departureDate": "2026-11-27",
   "cabinsAvailable": [
     "M",
     "C"
