@@ -4,7 +4,6 @@
   "destination": "GEO",
   "departureDate": "2027-05-24",
   "cabinsAvailable": [
-    "M",
     "C"
   ]
 }
