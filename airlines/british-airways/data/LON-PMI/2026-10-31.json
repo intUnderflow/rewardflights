@@ -4,7 +4,6 @@
   "destination": "PMI",
   "departureDate": "2026-10-31",
   "cabinsAvailable": [
-    "M",
-    "C"
+    "M"
   ]
 }
