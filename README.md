@@ -35,7 +35,7 @@ times, and per‑cabin seat counts).
 
 ## License
 
-Licensed under [CC BY 4.0](LICENSE) — free to use, share, and adapt (including commercially) with
+Licensed under the [Open Database License (ODbL) v1.0](LICENSE) — free to copy, share, and adapt, provided any **adapted database** you publicly distribute is also licensed under ODbL (share-alike), with
 attribution. Provided **as‑is**, with no warranty; see the license for the full disclaimer of
 warranties and limitation of liability.
 
