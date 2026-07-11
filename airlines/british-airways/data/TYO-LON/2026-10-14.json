@@ -4,7 +4,6 @@
   "destination": "LON",
   "departureDate": "2026-10-14",
   "cabinsAvailable": [
-    "M",
-    "W"
+    "M"
   ]
 }

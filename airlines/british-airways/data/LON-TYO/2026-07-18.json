@@ -2,10 +2,8 @@
   "airline": "BA",
   "origin": "LON",
   "destination": "TYO",
-  "departureDate": "2027-01-04",
+  "departureDate": "2026-07-18",
   "cabinsAvailable": [
-    "M",
-    "W",
-    "C"
+    "W"
   ]
 }
