@@ -4,7 +4,6 @@
   "destination": "BUE",
   "departureDate": "2026-09-07",
   "cabinsAvailable": [
-    "M",
-    "W"
+    "M"
   ]
 }

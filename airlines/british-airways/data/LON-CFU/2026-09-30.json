@@ -1,8 +1,8 @@
 {
   "airline": "BA",
   "origin": "LON",
-  "destination": "CAG",
-  "departureDate": "2026-07-30",
+  "destination": "CFU",
+  "departureDate": "2026-09-30",
   "cabinsAvailable": [
     "M",
     "C"
