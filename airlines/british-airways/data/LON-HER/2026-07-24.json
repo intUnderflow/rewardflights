@@ -1,9 +1,0 @@
-{
-  "airline": "BA",
-  "origin": "LON",
-  "destination": "HER",
-  "departureDate": "2026-07-24",
-  "cabinsAvailable": [
-    "C"
-  ]
-}
