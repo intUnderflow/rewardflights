@@ -1,26 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "AY0074",
-        "AY1331"
-      ],
-      "carriers": [
-        "AY"
-      ],
-      "via": [
-        "HEL"
-      ],
-      "depart": "23:10",
-      "arrive": "09:10",
-      "peak": null,
-      "rewardFlightSaver": false,
-      "seats": {
-        "C": 0
-      }
-    }
   ]
 }
