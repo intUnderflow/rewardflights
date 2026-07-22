@@ -2,5 +2,42 @@
   "cabinsAvailable": [
     "W",
     "C"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "BA0008"
+      ],
+      "carriers": [
+        "BA"
+      ],
+      "via": [],
+      "depart": "08:55",
+      "arrive": "15:45",
+      "peak": null,
+      "rewardFlightSaver": true,
+      "seats": {
+        "W": 1,
+        "C": 8
+      }
+    },
+    {
+      "flightNumbers": [
+        "BA0006"
+      ],
+      "carriers": [
+        "BA"
+      ],
+      "via": [],
+      "depart": "13:05",
+      "arrive": "19:50",
+      "peak": null,
+      "rewardFlightSaver": true,
+      "seats": {
+        "W": 0,
+        "C": 1,
+        "F": 0
+      }
+    }
   ]
 }
