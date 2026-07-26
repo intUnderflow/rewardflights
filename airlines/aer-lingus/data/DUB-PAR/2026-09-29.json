@@ -1,0 +1,97 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI520"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "06:45",
+      "arrive": "09:40",
+      "peak": "off-peak",
+      "seats": {
+        "M": 42
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI522"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "07:40",
+      "arrive": "10:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 26
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI524"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "09:45",
+      "arrive": "12:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 53
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI526"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "13:30",
+      "arrive": "16:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 36
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI528"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "18:30",
+      "arrive": "21:15",
+      "peak": "off-peak",
+      "seats": {
+        "M": 47
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
+  ]
+}
