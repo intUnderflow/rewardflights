@@ -1,0 +1,133 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI3641"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "08:35",
+      "arrive": "09:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 16
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3643"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "11:55",
+      "arrive": "13:10",
+      "peak": "off-peak",
+      "seats": {
+        "M": 5
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3647"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "15:20",
+      "arrive": "16:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 7
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3633"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "15:45",
+      "arrive": "17:00",
+      "peak": "off-peak",
+      "seats": {
+        "M": 14
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3645"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "16:35",
+      "arrive": "17:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 15
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3637"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "18:50",
+      "arrive": "20:05",
+      "peak": "off-peak",
+      "seats": {
+        "M": 13
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3649"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "19:40",
+      "arrive": "20:55",
+      "peak": "off-peak",
+      "seats": {
+        "M": 11
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
+  ]
+}
