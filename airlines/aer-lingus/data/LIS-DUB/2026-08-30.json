@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI483"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "10:55",
+      "arrive": "13:45",
+      "peak": "peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 7500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI487"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "22:15",
+      "arrive": "00:59",
+      "peak": "peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 7500
+      }
+    }
+  ]
+}
