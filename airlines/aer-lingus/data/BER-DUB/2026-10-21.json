@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI333"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "10:40",
+      "arrive": "12:05",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 6500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI337"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "21:45",
+      "arrive": "23:10",
+      "peak": "off-peak",
+      "seats": {
+        "M": 54
+      },
+      "avios": {
+        "M": 6500
+      }
+    }
+  ]
+}
