@@ -59,60 +59,6 @@
     },
     {
       "flightNumbers": [
-        "EI3555"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "11:10",
-      "arrive": "12:25",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3253"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "12:20",
-      "arrive": "13:40",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3255"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "13:25",
-      "arrive": "14:40",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3557"
       ],
       "carriers": [

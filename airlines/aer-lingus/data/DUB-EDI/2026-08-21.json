@@ -38,24 +38,6 @@
       "avios": {
         "M": 4500
       }
-    },
-    {
-      "flightNumbers": [
-        "EI3258"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "18:30",
-      "arrive": "19:50",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
     }
   ]
 }

@@ -56,24 +56,6 @@
       "avios": {
         "M": 4000
       }
-    },
-    {
-      "flightNumbers": [
-        "EI3556"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "17:50",
-      "arrive": "19:05",
-      "peak": "off-peak",
-      "seats": {
-        "M": 14
-      },
-      "avios": {
-        "M": 4000
-      }
     }
   ]
 }

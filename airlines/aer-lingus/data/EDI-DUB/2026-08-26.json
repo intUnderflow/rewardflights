@@ -51,25 +51,7 @@
       "arrive": "10:55",
       "peak": "peak",
       "seats": {
-        "M": 10
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3555"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "11:10",
-      "arrive": "12:25",
-      "peak": "peak",
-      "seats": {
-        "M": 7
+        "M": 9
       },
       "avios": {
         "M": 4500
