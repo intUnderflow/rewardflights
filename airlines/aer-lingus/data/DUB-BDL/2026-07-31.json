@@ -1,0 +1,25 @@
+{
+  "cabinsAvailable": [
+    "C"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI131"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "14:10",
+      "arrive": "16:30",
+      "peak": "peak",
+      "seats": {
+        "C": 1
+      },
+      "avios": {
+        "C": 60000
+      }
+    }
+  ]
+}
