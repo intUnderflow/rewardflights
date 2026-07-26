@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI3402"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "12:55",
+      "arrive": "14:00",
+      "peak": "peak",
+      "seats": {
+        "M": 13
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3408"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "18:50",
+      "arrive": "20:00",
+      "peak": "peak",
+      "seats": {
+        "M": 17
+      },
+      "avios": {
+        "M": 4500
+      }
+    }
+  ]
+}
