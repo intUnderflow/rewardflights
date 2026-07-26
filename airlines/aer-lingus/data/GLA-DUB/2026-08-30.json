@@ -41,42 +41,6 @@
     },
     {
       "flightNumbers": [
-        "EI3227"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "13:20",
-      "arrive": "14:35",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3225"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "15:55",
-      "arrive": "17:15",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3229"
       ],
       "carriers": [
