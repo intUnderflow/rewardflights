@@ -15,7 +15,25 @@
       "arrive": "13:40",
       "peak": "off-peak",
       "seats": {
-        "M": 12
+        "M": 18
+      },
+      "avios": {
+        "M": 13000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI107"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "16:45",
+      "arrive": "19:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 1
       },
       "avios": {
         "M": 13000
@@ -33,7 +51,7 @@
       "arrive": "22:25",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 20
       },
       "avios": {
         "M": 13000
