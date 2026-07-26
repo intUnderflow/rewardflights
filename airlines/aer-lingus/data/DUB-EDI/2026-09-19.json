@@ -13,12 +13,12 @@
       "via": [],
       "depart": "06:40",
       "arrive": "08:00",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 24
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
@@ -31,12 +31,12 @@
       "via": [],
       "depart": "07:10",
       "arrive": "08:30",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 12
+        "M": 28
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
@@ -49,48 +49,12 @@
       "via": [],
       "depart": "07:50",
       "arrive": "09:05",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 10
+        "M": 17
       },
       "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3556"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "17:50",
-      "arrive": "19:05",
-      "peak": "peak",
-      "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3258"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "18:30",
-      "arrive": "19:50",
-      "peak": "peak",
-      "seats": {
-        "M": 7
-      },
-      "avios": {
-        "M": 4500
+        "M": 4000
       }
     }
   ]

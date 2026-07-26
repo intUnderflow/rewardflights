@@ -5,17 +5,17 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI3250"
+        "EI3251"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "06:40",
-      "arrive": "08:00",
+      "depart": "08:35",
+      "arrive": "09:50",
       "peak": "peak",
       "seats": {
-        "M": 9
+        "M": 24
       },
       "avios": {
         "M": 4500
@@ -23,17 +23,35 @@
     },
     {
       "flightNumbers": [
-        "EI3552"
+        "EI3553"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "07:10",
-      "arrive": "08:30",
+      "depart": "09:15",
+      "arrive": "10:30",
       "peak": "peak",
       "seats": {
-        "M": 13
+        "M": 10
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3551"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "09:40",
+      "arrive": "10:55",
+      "peak": "peak",
+      "seats": {
+        "M": 14
       },
       "avios": {
         "M": 4500

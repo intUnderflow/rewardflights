@@ -15,7 +15,7 @@
       "arrive": "08:00",
       "peak": "peak",
       "seats": {
-        "M": 8
+        "M": 9
       },
       "avios": {
         "M": 4500
@@ -33,7 +33,7 @@
       "arrive": "08:30",
       "peak": "peak",
       "seats": {
-        "M": 12
+        "M": 15
       },
       "avios": {
         "M": 4500
@@ -51,43 +51,7 @@
       "arrive": "09:05",
       "peak": "peak",
       "seats": {
-        "M": 10
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3556"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "17:50",
-      "arrive": "19:05",
-      "peak": "peak",
-      "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3258"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "18:30",
-      "arrive": "19:50",
-      "peak": "peak",
-      "seats": {
-        "M": 7
+        "M": 4
       },
       "avios": {
         "M": 4500

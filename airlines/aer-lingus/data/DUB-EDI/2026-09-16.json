@@ -13,30 +13,30 @@
       "via": [],
       "depart": "06:40",
       "arrive": "08:00",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 9
+        "M": 10
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
       "flightNumbers": [
-        "EI3552"
+        "EI3550"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "07:10",
-      "arrive": "08:30",
-      "peak": "peak",
+      "depart": "07:50",
+      "arrive": "09:05",
+      "peak": "off-peak",
       "seats": {
-        "M": 13
+        "M": 17
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     }
   ]
