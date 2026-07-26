@@ -41,24 +41,6 @@
     },
     {
       "flightNumbers": [
-        "EI177"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "19:35",
-      "arrive": "20:55",
-      "peak": "peak",
-      "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI179"
       ],
       "carriers": [
