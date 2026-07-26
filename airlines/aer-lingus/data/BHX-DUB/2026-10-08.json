@@ -1,0 +1,97 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI263"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "08:10",
+      "arrive": "09:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 47
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3265"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "12:20",
+      "arrive": "13:45",
+      "peak": "off-peak",
+      "seats": {
+        "M": 17
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3273"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "16:35",
+      "arrive": "17:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 16
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3275"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "18:40",
+      "arrive": "20:00",
+      "peak": "off-peak",
+      "seats": {
+        "M": 18
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI277"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "20:25",
+      "arrive": "21:30",
+      "peak": "off-peak",
+      "seats": {
+        "M": 46
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
+  ]
+}
