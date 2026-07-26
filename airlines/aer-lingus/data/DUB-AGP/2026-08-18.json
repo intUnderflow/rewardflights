@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI580"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "07:20",
+      "arrive": "11:30",
+      "peak": "peak",
+      "seats": {
+        "M": 3
+      },
+      "avios": {
+        "M": 10000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI586"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "16:10",
+      "arrive": "20:20",
+      "peak": "peak",
+      "seats": {
+        "M": 4
+      },
+      "avios": {
+        "M": 10000
+      }
+    }
+  ]
+}
