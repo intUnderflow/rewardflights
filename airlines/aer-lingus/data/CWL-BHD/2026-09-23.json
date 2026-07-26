@@ -1,0 +1,25 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI3621"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "12:00",
+      "arrive": "13:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 6
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
+  ]
+}
