@@ -15,25 +15,7 @@
       "arrive": "11:45",
       "peak": "peak",
       "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3216"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "16:00",
-      "arrive": "16:50",
-      "peak": "peak",
-      "seats": {
-        "M": 12
+        "M": 9
       },
       "avios": {
         "M": 4500

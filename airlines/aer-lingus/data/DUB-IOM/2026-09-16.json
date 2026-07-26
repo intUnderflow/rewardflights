@@ -13,12 +13,12 @@
       "via": [],
       "depart": "10:55",
       "arrive": "11:45",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 2
+        "M": 37
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
@@ -31,12 +31,12 @@
       "via": [],
       "depart": "16:00",
       "arrive": "16:50",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 12
+        "M": 30
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     }
   ]

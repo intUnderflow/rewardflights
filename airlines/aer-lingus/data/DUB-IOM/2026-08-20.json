@@ -5,17 +5,17 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI3217"
+        "EI3212"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "17:20",
-      "arrive": "18:10",
+      "depart": "10:10",
+      "arrive": "10:55",
       "peak": "peak",
       "seats": {
-        "M": 9
+        "M": 12
       },
       "avios": {
         "M": 4500
