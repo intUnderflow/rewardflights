@@ -11,17 +11,18 @@ re‑committed only when its availability changes, so **git history is a free ti
 | Airline | Folder | Fields |
 |---------|--------|--------|
 | British Airways | [`airlines/british-airways/`](airlines/british-airways/) | [`FIELDS.md`](airlines/british-airways/FIELDS.md) |
+| Aer Lingus | [`airlines/aer-lingus/`](airlines/aer-lingus/) | [`FIELDS.md`](airlines/aer-lingus/FIELDS.md) |
 
 More airlines will be added under `airlines/` over time; each is self‑contained with its own
 `FIELDS.md` documenting its data.
 
 ## Using the data
 
-Data files are plain JSON. For British Airways, one file per directional **metro route** + departure
-date:
+Data files are plain JSON — one file per directional **metro route** + departure date:
 
 ```
 airlines/british-airways/data/LON-TYO/2026-10-15.json
+airlines/aer-lingus/data/DUB-NYC/2026-09-05.json
 ```
 
 See the airline's `FIELDS.md` for the exact schema. In short, each file lists the cabins with award
