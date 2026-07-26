@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI723"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "18:25",
+      "arrive": "19:50",
+      "peak": "peak",
+      "seats": {
+        "M": 5
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI725"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "22:25",
+      "arrive": "23:50",
+      "peak": "peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 4500
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI122"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "15:45",
+      "arrive": "05:10",
+      "peak": "peak",
+      "seats": {
+        "M": 22
+      },
+      "avios": {
+        "M": 20000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI124"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "21:00",
+      "arrive": "10:35",
+      "peak": "peak",
+      "seats": {
+        "M": 28
+      },
+      "avios": {
+        "M": 20000
+      }
+    }
+  ]
+}
