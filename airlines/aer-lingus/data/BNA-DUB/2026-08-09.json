@@ -5,20 +5,20 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI262"
+        "EI076"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "06:30",
-      "arrive": "07:40",
+      "depart": "18:35",
+      "arrive": "08:35",
       "peak": "peak",
       "seats": {
-        "M": 46
+        "M": 11
       },
       "avios": {
-        "M": 4500
+        "M": 20000
       }
     }
   ]
