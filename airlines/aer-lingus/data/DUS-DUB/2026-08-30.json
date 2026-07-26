@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI693"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "10:55",
+      "arrive": "11:55",
+      "peak": "peak",
+      "seats": {
+        "M": 4
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI699"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "21:05",
+      "arrive": "22:00",
+      "peak": "peak",
+      "seats": {
+        "M": 3
+      },
+      "avios": {
+        "M": 4500
+      }
+    }
+  ]
+}
