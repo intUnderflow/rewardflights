@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI3611"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "08:40",
+      "arrive": "09:45",
+      "peak": "peak",
+      "seats": {
+        "M": 22
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3619"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "19:55",
+      "arrive": "21:05",
+      "peak": "peak",
+      "seats": {
+        "M": 20
+      },
+      "avios": {
+        "M": 4500
+      }
+    }
+  ]
+}
