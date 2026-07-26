@@ -20,24 +20,6 @@
       "avios": {
         "C": 60000
       }
-    },
-    {
-      "flightNumbers": [
-        "EI136"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "21:15",
-      "arrive": "08:25",
-      "peak": "peak",
-      "seats": {
-        "C": 3
-      },
-      "avios": {
-        "C": 60000
-      }
     }
   ]
 }
