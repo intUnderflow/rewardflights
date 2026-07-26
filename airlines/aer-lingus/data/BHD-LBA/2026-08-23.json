@@ -20,24 +20,6 @@
       "avios": {
         "M": 4500
       }
-    },
-    {
-      "flightNumbers": [
-        "EI3672"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "10:20",
-      "arrive": "11:25",
-      "peak": "peak",
-      "seats": {
-        "M": 18
-      },
-      "avios": {
-        "M": 4500
-      }
     }
   ]
 }
