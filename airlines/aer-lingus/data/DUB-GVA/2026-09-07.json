@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI680"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "06:00",
+      "arrive": "09:15",
+      "peak": "off-peak",
+      "seats": {
+        "M": 39
+      },
+      "avios": {
+        "M": 6500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI684"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "13:00",
+      "arrive": "16:15",
+      "peak": "off-peak",
+      "seats": {
+        "M": 7
+      },
+      "avios": {
+        "M": 6500
+      }
+    }
+  ]
+}
