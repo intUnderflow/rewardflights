@@ -15,7 +15,7 @@
       "arrive": "21:00",
       "peak": "peak",
       "seats": {
-        "M": 5
+        "M": 2
       },
       "avios": {
         "M": 4500
@@ -34,24 +34,6 @@
       "peak": "peak",
       "seats": {
         "M": 5
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI183"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "21:10",
-      "arrive": "22:30",
-      "peak": "peak",
-      "seats": {
-        "M": 7
       },
       "avios": {
         "M": 4500

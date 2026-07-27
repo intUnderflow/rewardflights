@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI169"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "16:50",
-      "arrive": "18:20",
-      "peak": "peak",
-      "seats": {
-        "M": 5
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI183"
       ],
       "carriers": [
@@ -51,7 +33,7 @@
       "arrive": "22:30",
       "peak": "peak",
       "seats": {
-        "M": 7
+        "M": 5
       },
       "avios": {
         "M": 4500
