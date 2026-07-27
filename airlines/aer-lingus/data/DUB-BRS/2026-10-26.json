@@ -11,11 +11,11 @@
         "EA"
       ],
       "via": [],
-      "depart": "06:40",
+      "depart": "06:35",
       "arrive": "07:55",
       "peak": "off-peak",
       "seats": {
-        "M": 12
+        "M": 1
       },
       "avios": {
         "M": 4000
@@ -33,7 +33,7 @@
       "arrive": "14:25",
       "peak": "off-peak",
       "seats": {
-        "M": 3
+        "M": 1
       },
       "avios": {
         "M": 4000
@@ -51,7 +51,7 @@
       "arrive": "16:00",
       "peak": "off-peak",
       "seats": {
-        "M": 7
+        "M": 1
       },
       "avios": {
         "M": 4000

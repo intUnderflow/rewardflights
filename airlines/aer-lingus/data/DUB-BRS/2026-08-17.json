@@ -15,25 +15,7 @@
       "arrive": "07:55",
       "peak": "peak",
       "seats": {
-        "M": 26
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3284"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "13:10",
-      "arrive": "14:25",
-      "peak": "peak",
-      "seats": {
-        "M": 23
+        "M": 24
       },
       "avios": {
         "M": 4500
@@ -51,7 +33,7 @@
       "arrive": "16:00",
       "peak": "peak",
       "seats": {
-        "M": 22
+        "M": 21
       },
       "avios": {
         "M": 4500
