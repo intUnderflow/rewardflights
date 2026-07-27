@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI153"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "08:50",
-      "arrive": "10:15",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI165"
       ],
       "carriers": [
