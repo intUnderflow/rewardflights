@@ -5,56 +5,56 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI711"
+        "EI710"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "09:20",
-      "arrive": "10:45",
-      "peak": "peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI723"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "18:25",
-      "arrive": "19:50",
-      "peak": "peak",
+      "depart": "07:40",
+      "arrive": "09:00",
+      "peak": "off-peak",
       "seats": {
         "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
       "flightNumbers": [
-        "EI725"
+        "EI714"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "22:25",
-      "arrive": "23:50",
-      "peak": "peak",
+      "depart": "11:55",
+      "arrive": "13:15",
+      "peak": "off-peak",
       "seats": {
-        "M": 14
+        "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI718"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "16:05",
+      "arrive": "17:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 5
+      },
+      "avios": {
+        "M": 4000
       }
     }
   ]

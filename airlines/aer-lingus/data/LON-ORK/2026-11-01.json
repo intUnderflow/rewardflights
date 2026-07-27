@@ -5,74 +5,74 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI710"
+        "EI711"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "07:10",
-      "arrive": "08:40",
-      "peak": "peak",
-      "seats": {
-        "M": 7
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI714"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "11:25",
-      "arrive": "12:55",
-      "peak": "peak",
-      "seats": {
-        "M": 5
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI722"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "16:10",
-      "arrive": "17:35",
-      "peak": "peak",
+      "depart": "09:45",
+      "arrive": "11:10",
+      "peak": "off-peak",
       "seats": {
         "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
       "flightNumbers": [
-        "EI724"
+        "EI715"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "20:30",
-      "arrive": "21:45",
-      "peak": "peak",
+      "depart": "14:00",
+      "arrive": "15:25",
+      "peak": "off-peak",
       "seats": {
-        "M": 11
+        "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI723"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "19:35",
+      "arrive": "21:00",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI725"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "22:05",
+      "arrive": "23:25",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 4000
       }
     }
   ]
