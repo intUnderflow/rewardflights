@@ -20,24 +20,6 @@
       "avios": {
         "M": 4000
       }
-    },
-    {
-      "flightNumbers": [
-        "EI3286"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "14:40",
-      "arrive": "16:00",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
     }
   ]
 }

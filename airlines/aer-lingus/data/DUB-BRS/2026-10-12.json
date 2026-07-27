@@ -15,7 +15,7 @@
       "arrive": "07:55",
       "peak": "off-peak",
       "seats": {
-        "M": 12
+        "M": 13
       },
       "avios": {
         "M": 4000
@@ -33,7 +33,7 @@
       "arrive": "14:25",
       "peak": "off-peak",
       "seats": {
-        "M": 3
+        "M": 1
       },
       "avios": {
         "M": 4000
