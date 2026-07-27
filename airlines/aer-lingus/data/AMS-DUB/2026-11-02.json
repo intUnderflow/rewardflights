@@ -12,13 +12,13 @@
       ],
       "via": [],
       "depart": "09:35",
-      "arrive": "10:20",
-      "peak": "peak",
+      "arrive": "10:15",
+      "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 7
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
@@ -31,12 +31,12 @@
       "via": [],
       "depart": "13:20",
       "arrive": "14:00",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 6
+        "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
@@ -47,14 +47,32 @@
         "EI"
       ],
       "via": [],
-      "depart": "18:05",
-      "arrive": "18:45",
-      "peak": "peak",
+      "depart": "16:40",
+      "arrive": "17:20",
+      "peak": "off-peak",
       "seats": {
         "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI611"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "20:35",
+      "arrive": "21:15",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 4000
       }
     }
   ]
