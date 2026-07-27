@@ -15,25 +15,7 @@
       "arrive": "07:40",
       "peak": "peak",
       "seats": {
-        "M": 22
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3278"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "17:50",
-      "arrive": "19:05",
-      "peak": "peak",
-      "seats": {
-        "M": 4
+        "M": 21
       },
       "avios": {
         "M": 4500
@@ -51,7 +33,7 @@
       "arrive": "19:55",
       "peak": "peak",
       "seats": {
-        "M": 25
+        "M": 26
       },
       "avios": {
         "M": 4500
