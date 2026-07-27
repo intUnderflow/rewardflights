@@ -1,6 +1,6 @@
 {
   "cabinsAvailable": [
-    "M"
+    "C"
   ],
   "flights": [
     {
@@ -15,10 +15,10 @@
       "arrive": "17:10",
       "peak": "peak",
       "seats": {
-        "M": 21
+        "C": 1
       },
       "avios": {
-        "M": 25000
+        "C": 75000
       }
     }
   ]
