@@ -11,11 +11,29 @@
         "EI"
       ],
       "via": [],
-      "depart": "10:20",
-      "arrive": "11:05",
+      "depart": "10:15",
+      "arrive": "11:00",
       "peak": "off-peak",
       "seats": {
-        "M": 34
+        "M": 5
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI635"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "16:10",
+      "arrive": "16:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -29,11 +47,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "21:25",
-      "arrive": "22:05",
+      "depart": "20:50",
+      "arrive": "21:35",
       "peak": "off-peak",
       "seats": {
-        "M": 44
+        "M": 8
       },
       "avios": {
         "M": 4000
