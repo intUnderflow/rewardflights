@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI3217"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "17:20",
-      "arrive": "18:10",
-      "peak": "off-peak",
-      "seats": {
-        "M": 35
-      },
-      "avios": {
-        "M": 4000
-      }
-    }
   ]
 }
