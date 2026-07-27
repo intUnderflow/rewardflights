@@ -20,24 +20,6 @@
       "avios": {
         "M": 6500
       }
-    },
-    {
-      "flightNumbers": [
-        "EI545"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "15:25",
-      "arrive": "17:10",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 6500
-      }
     }
   ]
 }
