@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI3390"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "06:50",
-      "arrive": "08:15",
-      "peak": "peak",
-      "seats": {
-        "M": 10
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3392"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "17:45",
-      "arrive": "19:00",
-      "peak": "peak",
-      "seats": {
-        "M": 14
-      },
-      "avios": {
-        "M": 4500
-      }
-    }
   ]
 }
