@@ -11,11 +11,11 @@
         "EA"
       ],
       "via": [],
-      "depart": "17:25",
-      "arrive": "18:35",
+      "depart": "12:50",
+      "arrive": "14:05",
       "peak": "off-peak",
       "seats": {
-        "M": 24
+        "M": 1
       },
       "avios": {
         "M": 4000
