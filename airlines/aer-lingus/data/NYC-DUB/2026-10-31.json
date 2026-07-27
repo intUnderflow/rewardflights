@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI106"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "22:10",
-      "arrive": "08:40",
-      "peak": "off-peak",
-      "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 13000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI108"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "23:00",
-      "arrive": "09:30",
-      "peak": "off-peak",
-      "seats": {
-        "M": 10
-      },
-      "avios": {
-        "M": 13000
-      }
-    }
   ]
 }
