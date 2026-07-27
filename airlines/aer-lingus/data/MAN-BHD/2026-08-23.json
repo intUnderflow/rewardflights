@@ -33,25 +33,7 @@
       "arrive": "13:50",
       "peak": "peak",
       "seats": {
-        "M": 13
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3615"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "16:10",
-      "arrive": "17:20",
-      "peak": "peak",
-      "seats": {
-        "M": 2
+        "M": 12
       },
       "avios": {
         "M": 4500
