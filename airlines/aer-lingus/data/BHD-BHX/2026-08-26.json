@@ -15,7 +15,7 @@
       "arrive": "08:05",
       "peak": "peak",
       "seats": {
-        "M": 7
+        "M": 21
       },
       "avios": {
         "M": 4500
@@ -33,7 +33,7 @@
       "arrive": "11:25",
       "peak": "peak",
       "seats": {
-        "M": 19
+        "M": 27
       },
       "avios": {
         "M": 4500
@@ -51,7 +51,7 @@
       "arrive": "16:50",
       "peak": "peak",
       "seats": {
-        "M": 3
+        "M": 14
       },
       "avios": {
         "M": 4500
@@ -69,7 +69,25 @@
       "arrive": "18:20",
       "peak": "peak",
       "seats": {
-        "M": 2
+        "M": 12
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3648"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "17:55",
+      "arrive": "19:10",
+      "peak": "peak",
+      "seats": {
+        "M": 9
       },
       "avios": {
         "M": 4500
