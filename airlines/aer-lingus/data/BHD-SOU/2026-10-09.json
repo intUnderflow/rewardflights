@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI3604"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "10:25",
-      "arrive": "12:05",
-      "peak": "off-peak",
-      "seats": {
-        "M": 3
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3606"
       ],
       "carriers": [
@@ -51,7 +33,7 @@
       "arrive": "19:00",
       "peak": "off-peak",
       "seats": {
-        "M": 10
+        "M": 9
       },
       "avios": {
         "M": 4000
