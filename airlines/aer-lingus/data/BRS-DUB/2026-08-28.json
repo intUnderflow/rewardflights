@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI3281"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "08:25",
-      "arrive": "09:40",
-      "peak": "peak",
-      "seats": {
-        "M": 23
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3289"
       ],
       "carriers": [
@@ -33,7 +15,7 @@
       "arrive": "21:45",
       "peak": "peak",
       "seats": {
-        "M": 10
+        "M": 20
       },
       "avios": {
         "M": 4500
