@@ -15,25 +15,7 @@
       "arrive": "11:55",
       "peak": "off-peak",
       "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3842"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "18:30",
-      "arrive": "19:50",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
+        "M": 8
       },
       "avios": {
         "M": 4000
