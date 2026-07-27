@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI3646"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "13:35",
-      "arrive": "14:50",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3644"
       ],
       "carriers": [
@@ -51,7 +33,7 @@
       "arrive": "16:50",
       "peak": "peak",
       "seats": {
-        "M": 12
+        "M": 11
       },
       "avios": {
         "M": 4500
