@@ -5,17 +5,17 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI603"
+        "EI604"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "09:35",
-      "arrive": "10:20",
+      "depart": "10:00",
+      "arrive": "12:40",
       "peak": "off-peak",
       "seats": {
-        "M": 34
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -23,17 +23,17 @@
     },
     {
       "flightNumbers": [
-        "EI605"
+        "EI608"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
       "depart": "13:20",
-      "arrive": "14:00",
+      "arrive": "16:00",
       "peak": "off-peak",
       "seats": {
-        "M": 9
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -41,35 +41,17 @@
     },
     {
       "flightNumbers": [
-        "EI609"
+        "EI610"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "17:00",
-      "arrive": "17:40",
+      "depart": "17:15",
+      "arrive": "19:55",
       "peak": "off-peak",
       "seats": {
-        "M": 30
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI611"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "21:40",
-      "arrive": "22:20",
-      "peak": "off-peak",
-      "seats": {
-        "M": 52
+        "M": 8
       },
       "avios": {
         "M": 4000
