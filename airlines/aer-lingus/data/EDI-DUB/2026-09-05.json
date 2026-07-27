@@ -69,7 +69,7 @@
       "arrive": "13:40",
       "peak": "off-peak",
       "seats": {
-        "M": 26
+        "M": 25
       },
       "avios": {
         "M": 4000
@@ -88,24 +88,6 @@
       "peak": "off-peak",
       "seats": {
         "M": 24
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3259"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "20:30",
-      "arrive": "21:45",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
       },
       "avios": {
         "M": 4000

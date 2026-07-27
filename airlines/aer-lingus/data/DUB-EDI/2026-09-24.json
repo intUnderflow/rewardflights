@@ -77,42 +77,6 @@
     },
     {
       "flightNumbers": [
-        "EI3254"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "11:40",
-      "arrive": "12:55",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3256"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "13:45",
-      "arrive": "15:00",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3556"
       ],
       "carriers": [

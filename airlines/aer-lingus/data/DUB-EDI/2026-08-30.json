@@ -59,24 +59,6 @@
     },
     {
       "flightNumbers": [
-        "EI3554"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "09:25",
-      "arrive": "10:40",
-      "peak": "peak",
-      "seats": {
-        "M": 19
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3556"
       ],
       "carriers": [
