@@ -11,11 +11,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "06:30",
+      "depart": "06:40",
       "arrive": "08:05",
       "peak": "off-peak",
       "seats": {
-        "M": 3
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -29,11 +29,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "07:30",
+      "depart": "07:35",
       "arrive": "09:05",
       "peak": "off-peak",
       "seats": {
-        "M": 4
+        "M": 7
       },
       "avios": {
         "M": 4000
@@ -41,35 +41,17 @@
     },
     {
       "flightNumbers": [
-        "EI158"
+        "EI156"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "09:45",
-      "arrive": "11:15",
+      "depart": "08:45",
+      "arrive": "10:10",
       "peak": "off-peak",
       "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI162"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "11:10",
-      "arrive": "12:40",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -83,8 +65,8 @@
         "EI"
       ],
       "via": [],
-      "depart": "12:00",
-      "arrive": "13:30",
+      "depart": "12:05",
+      "arrive": "13:25",
       "peak": "off-peak",
       "seats": {
         "M": 4
@@ -101,11 +83,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "13:30",
-      "arrive": "15:00",
+      "depart": "13:05",
+      "arrive": "14:25",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 5
       },
       "avios": {
         "M": 4000
@@ -119,8 +101,8 @@
         "EI"
       ],
       "via": [],
-      "depart": "14:30",
-      "arrive": "16:00",
+      "depart": "14:15",
+      "arrive": "15:35",
       "peak": "off-peak",
       "seats": {
         "M": 8
@@ -137,11 +119,29 @@
         "EI"
       ],
       "via": [],
-      "depart": "15:55",
-      "arrive": "17:20",
+      "depart": "15:30",
+      "arrive": "16:50",
       "peak": "off-peak",
       "seats": {
-        "M": 4
+        "M": 8
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI174"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "16:30",
+      "arrive": "17:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -155,8 +155,8 @@
         "EI"
       ],
       "via": [],
-      "depart": "18:00",
-      "arrive": "19:25",
+      "depart": "18:30",
+      "arrive": "19:50",
       "peak": "off-peak",
       "seats": {
         "M": 8
@@ -167,14 +167,14 @@
     },
     {
       "flightNumbers": [
-        "EI182"
+        "EI184"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "19:00",
-      "arrive": "20:20",
+      "depart": "19:45",
+      "arrive": "21:05",
       "peak": "off-peak",
       "seats": {
         "M": 8
