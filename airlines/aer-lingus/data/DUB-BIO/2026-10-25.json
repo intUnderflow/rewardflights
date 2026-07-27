@@ -5,17 +5,17 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI749"
+        "EI748"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "18:10",
-      "arrive": "19:15",
+      "depart": "12:05",
+      "arrive": "15:15",
       "peak": "off-peak",
       "seats": {
-        "M": 3
+        "M": 2
       },
       "avios": {
         "M": 6500

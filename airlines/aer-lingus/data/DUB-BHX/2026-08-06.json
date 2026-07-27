@@ -20,6 +20,24 @@
       "avios": {
         "M": 4500
       }
+    },
+    {
+      "flightNumbers": [
+        "EI3278"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "17:50",
+      "arrive": "19:05",
+      "peak": "peak",
+      "seats": {
+        "M": 1
+      },
+      "avios": {
+        "M": 4500
+      }
     }
   ]
 }

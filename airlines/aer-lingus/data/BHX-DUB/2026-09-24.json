@@ -41,24 +41,6 @@
     },
     {
       "flightNumbers": [
-        "EI3273"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "16:35",
-      "arrive": "17:50",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3279"
       ],
       "carriers": [
@@ -87,7 +69,7 @@
       "arrive": "21:30",
       "peak": "off-peak",
       "seats": {
-        "M": 44
+        "M": 43
       },
       "avios": {
         "M": 4000
