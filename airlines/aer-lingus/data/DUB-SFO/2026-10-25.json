@@ -11,14 +11,14 @@
         "EI"
       ],
       "via": [],
-      "depart": "13:00",
-      "arrive": "15:55",
-      "peak": "peak",
+      "depart": "12:30",
+      "arrive": "16:35",
+      "peak": "off-peak",
       "seats": {
-        "M": 28
+        "M": 30
       },
       "avios": {
-        "M": 25000
+        "M": 16250
       }
     }
   ]
