@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI3220"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "06:50",
-      "arrive": "08:05",
-      "peak": "peak",
-      "seats": {
-        "M": 12
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3224"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "14:05",
-      "arrive": "15:25",
-      "peak": "peak",
-      "seats": {
-        "M": 11
-      },
-      "avios": {
-        "M": 4500
-      }
-    }
   ]
 }
