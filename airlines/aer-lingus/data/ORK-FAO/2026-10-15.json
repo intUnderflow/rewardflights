@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI892"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "05:55",
-      "arrive": "08:25",
-      "peak": "off-peak",
-      "seats": {
-        "M": 3
-      },
-      "avios": {
-        "M": 6500
-      }
-    }
   ]
 }
