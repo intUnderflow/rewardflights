@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI603"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "09:35",
-      "arrive": "10:20",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI611"
       ],
       "carriers": [

@@ -15,24 +15,6 @@
       "arrive": "08:55",
       "peak": "peak",
       "seats": {
-        "M": 3
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI608"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "13:35",
-      "arrive": "16:20",
-      "peak": "peak",
-      "seats": {
         "M": 1
       },
       "avios": {
@@ -51,7 +33,7 @@
       "arrive": "21:00",
       "peak": "peak",
       "seats": {
-        "M": 6
+        "M": 4
       },
       "avios": {
         "M": 4500
