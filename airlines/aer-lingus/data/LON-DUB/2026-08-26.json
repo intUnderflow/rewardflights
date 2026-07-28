@@ -56,24 +56,6 @@
       "avios": {
         "M": 4500
       }
-    },
-    {
-      "flightNumbers": [
-        "EI173"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "18:10",
-      "arrive": "19:35",
-      "peak": "peak",
-      "seats": {
-        "M": 5
-      },
-      "avios": {
-        "M": 4500
-      }
     }
   ]
 }
