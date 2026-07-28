@@ -5,42 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI603"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "09:35",
-      "arrive": "10:20",
-      "peak": "peak",
-      "seats": {
-        "M": 7
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI605"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "13:20",
-      "arrive": "14:00",
-      "peak": "peak",
-      "seats": {
-        "M": 8
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI609"
       ],
       "carriers": [
@@ -51,7 +15,7 @@
       "arrive": "17:40",
       "peak": "peak",
       "seats": {
-        "M": 8
+        "M": 4
       },
       "avios": {
         "M": 4500
