@@ -15,7 +15,43 @@
       "arrive": "09:20",
       "peak": "peak",
       "seats": {
-        "M": 6
+        "M": 45
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3273"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "16:35",
+      "arrive": "17:50",
+      "peak": "peak",
+      "seats": {
+        "M": 10
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3275"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "18:40",
+      "arrive": "20:00",
+      "peak": "peak",
+      "seats": {
+        "M": 11
       },
       "avios": {
         "M": 4500
