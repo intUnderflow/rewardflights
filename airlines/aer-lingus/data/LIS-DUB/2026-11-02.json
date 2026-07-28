@@ -5,20 +5,20 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI487"
+        "EI483"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "22:15",
-      "arrive": "00:59",
-      "peak": "peak",
+      "depart": "10:50",
+      "arrive": "13:45",
+      "peak": "off-peak",
       "seats": {
-        "M": 4
+        "M": 8
       },
       "avios": {
-        "M": 7500
+        "M": 6500
       }
     }
   ]
