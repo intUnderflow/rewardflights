@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI492"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "07:30",
-      "arrive": "10:35",
-      "peak": "peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 7500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI496"
       ],
       "carriers": [
