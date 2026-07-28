@@ -41,6 +41,24 @@
     },
     {
       "flightNumbers": [
+        "EI155"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "09:50",
+      "arrive": "11:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 1
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
         "EI159"
       ],
       "carriers": [

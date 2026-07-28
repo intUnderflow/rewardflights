@@ -15,25 +15,7 @@
       "arrive": "21:00",
       "peak": "peak",
       "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI179"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "20:10",
-      "arrive": "21:30",
-      "peak": "peak",
-      "seats": {
-        "M": 5
+        "M": 4
       },
       "avios": {
         "M": 4500
