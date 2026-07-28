@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI710"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "07:10",
-      "arrive": "08:40",
-      "peak": "peak",
-      "seats": {
-        "M": 8
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI722"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "16:10",
-      "arrive": "17:35",
-      "peak": "peak",
-      "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4500
-      }
-    }
   ]
 }
