@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI123"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "11:35",
-      "arrive": "14:00",
-      "peak": "peak",
-      "seats": {
-        "C": 1
-      },
-      "avios": {
-        "C": 60000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI125"
       ],
       "carriers": [

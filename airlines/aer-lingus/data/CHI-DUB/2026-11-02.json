@@ -1,29 +1,8 @@
 {
   "cabinsAvailable": [
-    "M",
-    "C"
+    "M"
   ],
   "flights": [
-    {
-      "flightNumbers": [
-        "EI124"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "21:00",
-      "arrive": "10:35",
-      "peak": "peak",
-      "seats": {
-        "M": 26,
-        "C": 2
-      },
-      "avios": {
-        "M": 20000,
-        "C": 60000
-      }
-    },
     {
       "flightNumbers": [
         "EI122"
@@ -32,16 +11,32 @@
         "EI"
       ],
       "via": [],
-      "depart": "15:45",
-      "arrive": "05:10",
-      "peak": "peak",
+      "depart": "15:55",
+      "arrive": "05:15",
+      "peak": "off-peak",
       "seats": {
-        "M": 0,
-        "C": 1
+        "M": 30
       },
       "avios": {
-        "M": 20000,
-        "C": 60000
+        "M": 13000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI124"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "20:10",
+      "arrive": "09:30",
+      "peak": "off-peak",
+      "seats": {
+        "M": 31
+      },
+      "avios": {
+        "M": 13000
       }
     }
   ]

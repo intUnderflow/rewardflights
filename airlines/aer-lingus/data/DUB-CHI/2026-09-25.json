@@ -20,24 +20,6 @@
       "avios": {
         "M": 13000
       }
-    },
-    {
-      "flightNumbers": [
-        "EI125"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "16:45",
-      "arrive": "19:15",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 13000
-      }
     }
   ]
 }
