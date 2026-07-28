@@ -33,25 +33,7 @@
       "arrive": "13:00",
       "peak": "off-peak",
       "seats": {
-        "M": 13
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3677"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "16:25",
-      "arrive": "17:40",
-      "peak": "off-peak",
-      "seats": {
-        "M": 3
+        "M": 11
       },
       "avios": {
         "M": 4000

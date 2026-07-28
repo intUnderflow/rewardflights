@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI3673"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "11:55",
-      "arrive": "13:00",
-      "peak": "peak",
-      "seats": {
-        "M": 6
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3679"
       ],
       "carriers": [
