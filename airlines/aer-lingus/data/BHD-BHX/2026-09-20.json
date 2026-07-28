@@ -87,25 +87,7 @@
       "arrive": "16:05",
       "peak": "off-peak",
       "seats": {
-        "M": 9
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3648"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "17:55",
-      "arrive": "19:10",
-      "peak": "off-peak",
-      "seats": {
-        "M": 2
+        "M": 8
       },
       "avios": {
         "M": 4000
