@@ -1,5 +1,43 @@
 {
   "cabinsAvailable": [
     "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI204"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "09:55",
+      "arrive": "11:00",
+      "peak": "off-peak",
+      "seats": {
+        "M": 5
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI208"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "12:45",
+      "arrive": "13:55",
+      "peak": "off-peak",
+      "seats": {
+        "M": 5
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
   ]
 }
