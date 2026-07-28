@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI877"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "10:50",
-      "arrive": "14:35",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 8500
-      }
-    }
   ]
 }

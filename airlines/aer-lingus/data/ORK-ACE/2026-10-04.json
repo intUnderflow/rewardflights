@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI876"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "07:45",
-      "arrive": "11:40",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 8500
-      }
-    }
   ]
 }
