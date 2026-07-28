@@ -1,8 +1,29 @@
 {
   "cabinsAvailable": [
+    "M",
     "C"
   ],
   "flights": [
+    {
+      "flightNumbers": [
+        "EI118"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "20:40",
+      "arrive": "08:40",
+      "peak": "peak",
+      "seats": {
+        "M": 5,
+        "C": 0
+      },
+      "avios": {
+        "M": 20000,
+        "C": 60000
+      }
+    },
     {
       "flightNumbers": [
         "EI116"
@@ -15,9 +36,11 @@
       "arrive": "05:15",
       "peak": "peak",
       "seats": {
+        "M": 0,
         "C": 1
       },
       "avios": {
+        "M": 20000,
         "C": 60000
       }
     }
