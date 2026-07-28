@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI116"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "17:15",
-      "arrive": "05:15",
-      "peak": "off-peak",
-      "seats": {
-        "M": 23
-      },
-      "avios": {
-        "M": 13000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI118"
       ],
       "carriers": [

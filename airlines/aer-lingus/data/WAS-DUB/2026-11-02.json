@@ -1,29 +1,8 @@
 {
   "cabinsAvailable": [
-    "M",
-    "C"
+    "M"
   ],
   "flights": [
-    {
-      "flightNumbers": [
-        "EI118"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "21:05",
-      "arrive": "09:05",
-      "peak": "peak",
-      "seats": {
-        "M": 11,
-        "C": 0
-      },
-      "avios": {
-        "M": 20000,
-        "C": 60000
-      }
-    },
     {
       "flightNumbers": [
         "EI116"
@@ -32,16 +11,32 @@
         "EI"
       ],
       "via": [],
-      "depart": "17:15",
-      "arrive": "05:15",
-      "peak": "peak",
+      "depart": "17:05",
+      "arrive": "04:55",
+      "peak": "off-peak",
       "seats": {
-        "M": 0,
-        "C": 1
+        "M": 25
       },
       "avios": {
-        "M": 20000,
-        "C": 60000
+        "M": 13000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI118"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "21:00",
+      "arrive": "08:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 28
+      },
+      "avios": {
+        "M": 13000
       }
     }
   ]
