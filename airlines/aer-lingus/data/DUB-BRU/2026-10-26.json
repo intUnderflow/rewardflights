@@ -12,10 +12,10 @@
       ],
       "via": [],
       "depart": "06:50",
-      "arrive": "09:40",
+      "arrive": "09:35",
       "peak": "off-peak",
       "seats": {
-        "M": 55
+        "M": 6
       },
       "avios": {
         "M": 4000
@@ -23,17 +23,17 @@
     },
     {
       "flightNumbers": [
-        "EI638"
+        "EI636"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "18:00",
-      "arrive": "20:45",
+      "depart": "15:30",
+      "arrive": "18:15",
       "peak": "off-peak",
       "seats": {
-        "M": 26
+        "M": 8
       },
       "avios": {
         "M": 4000
