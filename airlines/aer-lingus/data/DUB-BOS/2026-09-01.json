@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "C"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI133"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "12:45",
+      "arrive": "14:55",
+      "peak": "off-peak",
+      "seats": {
+        "C": 3
+      },
+      "avios": {
+        "C": 50000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI137"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "16:45",
+      "arrive": "18:50",
+      "peak": "off-peak",
+      "seats": {
+        "C": 2
+      },
+      "avios": {
+        "C": 50000
+      }
+    }
+  ]
+}
