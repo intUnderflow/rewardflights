@@ -1,24 +1,24 @@
 {
   "cabinsAvailable": [
-    "M"
+    "C"
   ],
   "flights": [
     {
       "flightNumbers": [
-        "EI749"
+        "EI077"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "17:50",
-      "arrive": "18:55",
+      "depart": "14:05",
+      "arrive": "17:05",
       "peak": "off-peak",
       "seats": {
-        "M": 4
+        "C": 1
       },
       "avios": {
-        "M": 6500
+        "C": 50000
       }
     }
   ]
