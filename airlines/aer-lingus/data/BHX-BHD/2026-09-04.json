@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI3647"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "15:20",
-      "arrive": "16:35",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3633"
       ],
       "carriers": [
@@ -33,7 +15,7 @@
       "arrive": "17:00",
       "peak": "off-peak",
       "seats": {
-        "M": 5
+        "M": 4
       },
       "avios": {
         "M": 4000

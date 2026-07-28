@@ -15,25 +15,7 @@
       "arrive": "08:05",
       "peak": "peak",
       "seats": {
-        "M": 7
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3636"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "17:05",
-      "arrive": "18:20",
-      "peak": "peak",
-      "seats": {
-        "M": 1
+        "M": 4
       },
       "avios": {
         "M": 4500
