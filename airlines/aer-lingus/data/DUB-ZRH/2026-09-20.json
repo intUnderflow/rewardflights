@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI342"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "06:50",
-      "arrive": "10:20",
-      "peak": "off-peak",
-      "seats": {
-        "M": 29
-      },
-      "avios": {
-        "M": 6500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI348"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "17:00",
-      "arrive": "20:10",
-      "peak": "off-peak",
-      "seats": {
-        "M": 7
-      },
-      "avios": {
-        "M": 6500
-      }
-    }
   ]
 }
