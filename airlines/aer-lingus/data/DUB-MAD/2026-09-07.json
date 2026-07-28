@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI592"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "06:20",
-      "arrive": "09:55",
-      "peak": "off-peak",
-      "seats": {
-        "M": 31
-      },
-      "avios": {
-        "M": 6500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI594"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "16:30",
-      "arrive": "20:05",
-      "peak": "off-peak",
-      "seats": {
-        "M": 7
-      },
-      "avios": {
-        "M": 6500
-      }
-    }
   ]
 }
