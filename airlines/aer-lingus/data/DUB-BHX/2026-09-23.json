@@ -33,25 +33,7 @@
       "arrive": "11:50",
       "peak": "off-peak",
       "seats": {
-        "M": 2
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3272"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "14:45",
-      "arrive": "16:05",
-      "peak": "off-peak",
-      "seats": {
-        "M": 12
+        "M": 3
       },
       "avios": {
         "M": 4000

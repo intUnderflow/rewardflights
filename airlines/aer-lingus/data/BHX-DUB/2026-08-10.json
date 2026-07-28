@@ -5,24 +5,6 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI3275"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "18:40",
-      "arrive": "20:00",
-      "peak": "peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3279"
       ],
       "carriers": [
@@ -33,7 +15,7 @@
       "arrive": "20:50",
       "peak": "peak",
       "seats": {
-        "M": 11
+        "M": 8
       },
       "avios": {
         "M": 4500
@@ -51,7 +33,7 @@
       "arrive": "21:30",
       "peak": "peak",
       "seats": {
-        "M": 31
+        "M": 32
       },
       "avios": {
         "M": 4500
