@@ -13,12 +13,12 @@
       "via": [],
       "depart": "19:30",
       "arrive": "20:35",
-      "peak": "peak",
+      "peak": "off-peak",
       "seats": {
-        "M": 5
+        "M": 2
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     }
   ]
