@@ -177,7 +177,7 @@
       "arrive": "17:20",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 19
       },
       "avios": {
         "M": 4000
@@ -195,7 +195,7 @@
       "arrive": "18:55",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 15
       },
       "avios": {
         "M": 4000
@@ -213,7 +213,7 @@
       "arrive": "19:25",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 20
       },
       "avios": {
         "M": 4000
@@ -231,7 +231,7 @@
       "arrive": "20:20",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 19
       },
       "avios": {
         "M": 4000

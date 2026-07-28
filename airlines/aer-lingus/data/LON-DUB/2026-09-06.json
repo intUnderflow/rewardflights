@@ -77,24 +77,6 @@
     },
     {
       "flightNumbers": [
-        "EI167"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "15:50",
-      "arrive": "17:15",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI169"
       ],
       "carriers": [

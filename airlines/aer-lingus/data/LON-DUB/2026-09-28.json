@@ -123,7 +123,7 @@
       "arrive": "16:35",
       "peak": "off-peak",
       "seats": {
-        "M": 7
+        "M": 13
       },
       "avios": {
         "M": 4000
@@ -141,7 +141,7 @@
       "arrive": "17:15",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 18
       },
       "avios": {
         "M": 4000
@@ -159,7 +159,7 @@
       "arrive": "18:20",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 19
       },
       "avios": {
         "M": 4000
@@ -177,7 +177,7 @@
       "arrive": "19:35",
       "peak": "off-peak",
       "seats": {
-        "M": 5
+        "M": 17
       },
       "avios": {
         "M": 4000
@@ -195,7 +195,7 @@
       "arrive": "20:55",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 17
       },
       "avios": {
         "M": 4000
@@ -213,7 +213,7 @@
       "arrive": "21:30",
       "peak": "off-peak",
       "seats": {
-        "M": 7
+        "M": 14
       },
       "avios": {
         "M": 4000
@@ -231,7 +231,7 @@
       "arrive": "22:30",
       "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 20
       },
       "avios": {
         "M": 4000
