@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI651"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "10:55",
-      "arrive": "12:10",
-      "peak": "off-peak",
-      "seats": {
-        "M": 36
-      },
-      "avios": {
-        "M": 6500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI657"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "20:40",
-      "arrive": "21:45",
-      "peak": "off-peak",
-      "seats": {
-        "M": 37
-      },
-      "avios": {
-        "M": 6500
-      }
-    }
   ]
 }
