@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI524"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "09:45",
-      "arrive": "12:35",
-      "peak": "off-peak",
-      "seats": {
-        "M": 41
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI526"
       ],
       "carriers": [

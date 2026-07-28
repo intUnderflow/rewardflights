@@ -11,50 +11,32 @@
         "EI"
       ],
       "via": [],
-      "depart": "06:45",
-      "arrive": "09:40",
-      "peak": "peak",
+      "depart": "06:40",
+      "arrive": "09:30",
+      "peak": "off-peak",
       "seats": {
         "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
       "flightNumbers": [
-        "EI522"
+        "EI526"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "07:40",
-      "arrive": "10:35",
-      "peak": "peak",
+      "depart": "13:20",
+      "arrive": "16:05",
+      "peak": "off-peak",
       "seats": {
-        "M": 8
+        "M": 4
       },
       "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI524"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "09:45",
-      "arrive": "12:35",
-      "peak": "peak",
-      "seats": {
-        "M": 3
-      },
-      "avios": {
-        "M": 4500
+        "M": 4000
       }
     },
     {
@@ -65,14 +47,14 @@
         "EI"
       ],
       "via": [],
-      "depart": "18:30",
-      "arrive": "21:15",
-      "peak": "peak",
+      "depart": "18:00",
+      "arrive": "20:40",
+      "peak": "off-peak",
       "seats": {
         "M": 8
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     }
   ]
