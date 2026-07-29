@@ -1,6 +1,8 @@
 {
   "cabinsAvailable": [
     "M",
-    "C"
+    "W",
+    "C",
+    "F"
   ]
 }
