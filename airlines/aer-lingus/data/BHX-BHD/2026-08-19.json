@@ -5,6 +5,24 @@
   "flights": [
     {
       "flightNumbers": [
+        "EI3641"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "08:35",
+      "arrive": "09:50",
+      "peak": "peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
         "EI3647"
       ],
       "carriers": [
@@ -16,6 +34,24 @@
       "peak": "peak",
       "seats": {
         "M": 7
+      },
+      "avios": {
+        "M": 4500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3645"
+      ],
+      "carriers": [
+        "E1"
+      ],
+      "via": [],
+      "depart": "17:20",
+      "arrive": "18:35",
+      "peak": "peak",
+      "seats": {
+        "M": 2
       },
       "avios": {
         "M": 4500
@@ -51,7 +87,7 @@
       "arrive": "20:55",
       "peak": "peak",
       "seats": {
-        "M": 7
+        "M": 5
       },
       "avios": {
         "M": 4500
