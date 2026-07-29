@@ -2,5 +2,24 @@
   "cabinsAvailable": [
     "M",
     "C"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "BA0006"
+      ],
+      "carriers": [
+        "BA"
+      ],
+      "via": [],
+      "depart": "13:05",
+      "arrive": "19:50",
+      "peak": null,
+      "rewardFlightSaver": true,
+      "seats": {
+        "W": 0,
+        "F": 0
+      }
+    }
   ]
 }
