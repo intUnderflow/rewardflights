@@ -23,24 +23,6 @@
     },
     {
       "flightNumbers": [
-        "EI3652"
-      ],
-      "carriers": [
-        "E1"
-      ],
-      "via": [],
-      "depart": "12:40",
-      "arrive": "13:35",
-      "peak": "off-peak",
-      "seats": {
-        "M": 5
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI3656"
       ],
       "carriers": [
@@ -51,7 +33,7 @@
       "arrive": "16:20",
       "peak": "off-peak",
       "seats": {
-        "M": 5
+        "M": 6
       },
       "avios": {
         "M": 4000
@@ -69,7 +51,7 @@
       "arrive": "19:25",
       "peak": "off-peak",
       "seats": {
-        "M": 3
+        "M": 2
       },
       "avios": {
         "M": 4000
