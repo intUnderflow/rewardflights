@@ -11,14 +11,14 @@
         "E1"
       ],
       "via": [],
-      "depart": "08:40",
-      "arrive": "09:50",
-      "peak": "peak",
+      "depart": "12:05",
+      "arrive": "13:20",
+      "peak": "off-peak",
       "seats": {
-        "M": 5
+        "M": 14
       },
       "avios": {
-        "M": 4500
+        "M": 4000
       }
     }
   ]
