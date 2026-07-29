@@ -1,5 +1,46 @@
 {
   "cabinsAvailable": [
     "W"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "BA0006"
+      ],
+      "carriers": [
+        "BA"
+      ],
+      "via": [],
+      "depart": "13:15",
+      "arrive": "19:20",
+      "peak": "off-peak",
+      "rewardFlightSaver": true,
+      "seats": {
+        "W": 3,
+        "C": 0
+      }
+    },
+    {
+      "flightNumbers": [
+        "QR0809",
+        "BA0126"
+      ],
+      "carriers": [
+        "QR",
+        "BA"
+      ],
+      "via": [
+        "DOH"
+      ],
+      "depart": "16:55",
+      "arrive": "06:15",
+      "peak": "off-peak",
+      "rewardFlightSaver": false,
+      "seats": {
+        "W": 2,
+        "C": 0,
+        "F": 0
+      }
+    }
   ]
 }
