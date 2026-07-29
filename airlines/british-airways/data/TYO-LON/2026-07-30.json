@@ -1,7 +1,8 @@
 {
   "cabinsAvailable": [
     "M",
-    "C"
+    "C",
+    "F"
   ],
   "flights": [
     {
