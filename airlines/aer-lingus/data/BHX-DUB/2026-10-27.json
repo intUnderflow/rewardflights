@@ -41,24 +41,6 @@
     },
     {
       "flightNumbers": [
-        "EI3267"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "13:20",
-      "arrive": "14:35",
-      "peak": "off-peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
         "EI267"
       ],
       "carriers": [
@@ -70,6 +52,24 @@
       "peak": "off-peak",
       "seats": {
         "M": 8
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3267"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "13:20",
+      "arrive": "14:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 1
       },
       "avios": {
         "M": 4000
