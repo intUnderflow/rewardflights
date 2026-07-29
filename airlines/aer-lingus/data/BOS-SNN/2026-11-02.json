@@ -2,27 +2,5 @@
   "cabinsAvailable": [
     "M",
     "C"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI134"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "19:25",
-      "arrive": "06:20",
-      "peak": "off-peak",
-      "seats": {
-        "M": 16,
-        "C": 5
-      },
-      "avios": {
-        "M": 13000,
-        "C": 50000
-      }
-    }
   ]
 }
