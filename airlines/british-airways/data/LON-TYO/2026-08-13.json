@@ -2,43 +2,5 @@
   "cabinsAvailable": [
     "M",
     "W"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "BA0007"
-      ],
-      "carriers": [
-        "BA"
-      ],
-      "via": [],
-      "depart": "09:25",
-      "arrive": "07:00",
-      "peak": null,
-      "rewardFlightSaver": true,
-      "seats": {
-        "C": 6
-      }
-    },
-    {
-      "flightNumbers": [
-        "BA0458",
-        "IB0281"
-      ],
-      "carriers": [
-        "BA",
-        "IB"
-      ],
-      "via": [
-        "MAD"
-      ],
-      "depart": "07:50",
-      "arrive": "09:30",
-      "peak": null,
-      "rewardFlightSaver": false,
-      "seats": {
-        "C": 0
-      }
-    }
   ]
 }
