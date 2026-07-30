@@ -1,0 +1,28 @@
+{
+  "cabinsAvailable": [
+    "M",
+    "C"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI142"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "21:05",
+      "arrive": "11:20",
+      "peak": "off-peak",
+      "seats": {
+        "M": 50,
+        "C": 3
+      },
+      "avios": {
+        "M": 16250,
+        "C": 62500
+      }
+    }
+  ]
+}
