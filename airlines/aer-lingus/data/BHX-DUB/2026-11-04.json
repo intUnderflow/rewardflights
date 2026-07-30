@@ -5,17 +5,17 @@
   "flights": [
     {
       "flightNumbers": [
-        "EI262"
+        "EI263"
       ],
       "carriers": [
         "EI"
       ],
       "via": [],
-      "depart": "06:30",
-      "arrive": "07:40",
+      "depart": "08:15",
+      "arrive": "09:20",
       "peak": "off-peak",
       "seats": {
-        "M": 48
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -23,14 +23,14 @@
     },
     {
       "flightNumbers": [
-        "EI3264"
+        "EI3265"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "10:30",
-      "arrive": "11:50",
+      "depart": "12:20",
+      "arrive": "13:40",
       "peak": "off-peak",
       "seats": {
         "M": 1
@@ -41,17 +41,17 @@
     },
     {
       "flightNumbers": [
-        "EI3272"
+        "EI3267"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "14:45",
-      "arrive": "16:05",
+      "depart": "13:20",
+      "arrive": "14:35",
       "peak": "off-peak",
       "seats": {
-        "M": 17
+        "M": 1
       },
       "avios": {
         "M": 4000
@@ -59,17 +59,17 @@
     },
     {
       "flightNumbers": [
-        "EI3274"
+        "EI267"
       ],
       "carriers": [
-        "EA"
+        "EI"
       ],
       "via": [],
-      "depart": "16:50",
-      "arrive": "18:10",
+      "depart": "13:20",
+      "arrive": "14:25",
       "peak": "off-peak",
       "seats": {
-        "M": 19
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -77,17 +77,35 @@
     },
     {
       "flightNumbers": [
-        "EI3278"
+        "EI3273"
       ],
       "carriers": [
         "EA"
       ],
       "via": [],
-      "depart": "17:50",
-      "arrive": "19:05",
+      "depart": "16:35",
+      "arrive": "17:50",
       "peak": "off-peak",
       "seats": {
-        "M": 18
+        "M": 1
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI3275"
+      ],
+      "carriers": [
+        "EA"
+      ],
+      "via": [],
+      "depart": "18:35",
+      "arrive": "19:50",
+      "peak": "off-peak",
+      "seats": {
+        "M": 1
       },
       "avios": {
         "M": 4000
