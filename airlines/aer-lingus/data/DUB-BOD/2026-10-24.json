@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI502"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "07:00",
+      "arrive": "10:05",
+      "peak": "off-peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI504"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "10:30",
+      "arrive": "13:30",
+      "peak": "off-peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
+  ]
+}
