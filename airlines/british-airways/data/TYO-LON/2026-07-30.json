@@ -1,9 +1,5 @@
 {
-  "cabinsAvailable": [
-    "M",
-    "C",
-    "F"
-  ],
+  "cabinsAvailable": [],
   "flights": [
     {
       "flightNumbers": [
