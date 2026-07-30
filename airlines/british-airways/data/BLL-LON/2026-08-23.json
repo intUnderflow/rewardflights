@@ -1,24 +1,5 @@
 {
   "cabinsAvailable": [
     "C"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "BA0809"
-      ],
-      "carriers": [
-        "BA"
-      ],
-      "via": [],
-      "depart": "21:10",
-      "arrive": "21:55",
-      "peak": null,
-      "rewardFlightSaver": true,
-      "seats": {
-        "M": 0,
-        "C": 1
-      }
-    }
   ]
 }
