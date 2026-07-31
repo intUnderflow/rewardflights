@@ -15,7 +15,7 @@
       "arrive": "08:55",
       "peak": "off-peak",
       "seats": {
-        "M": 40
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -29,11 +29,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "09:55",
+      "depart": "10:00",
       "arrive": "12:40",
       "peak": "off-peak",
       "seats": {
-        "M": 36
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -47,11 +47,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "13:35",
-      "arrive": "16:20",
+      "depart": "13:20",
+      "arrive": "16:00",
       "peak": "off-peak",
       "seats": {
-        "M": 34
+        "M": 8
       },
       "avios": {
         "M": 4000
@@ -65,11 +65,11 @@
         "EI"
       ],
       "via": [],
-      "depart": "18:20",
-      "arrive": "21:00",
+      "depart": "17:15",
+      "arrive": "19:55",
       "peak": "off-peak",
       "seats": {
-        "M": 53
+        "M": 8
       },
       "avios": {
         "M": 4000
