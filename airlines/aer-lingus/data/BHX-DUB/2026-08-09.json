@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI263"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "08:10",
-      "arrive": "09:20",
-      "peak": "peak",
-      "seats": {
-        "M": 48
-      },
-      "avios": {
-        "M": 4500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI277"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "21:35",
-      "arrive": "22:40",
-      "peak": "peak",
-      "seats": {
-        "M": 17
-      },
-      "avios": {
-        "M": 4500
-      }
-    }
   ]
 }
