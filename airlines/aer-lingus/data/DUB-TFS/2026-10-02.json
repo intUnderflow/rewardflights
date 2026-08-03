@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI762"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "07:15",
+      "arrive": "11:55",
+      "peak": "off-peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 8500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI764"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "15:00",
+      "arrive": "19:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 3
+      },
+      "avios": {
+        "M": 8500
+      }
+    }
+  ]
+}
