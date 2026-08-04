@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI402"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "06:25",
+      "arrive": "10:40",
+      "peak": "off-peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 8500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI406"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "15:30",
+      "arrive": "19:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 45
+      },
+      "avios": {
+        "M": 8500
+      }
+    }
+  ]
+}
