@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI424"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "15:55",
-      "arrive": "19:30",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 6500
-      }
-    }
   ]
 }
