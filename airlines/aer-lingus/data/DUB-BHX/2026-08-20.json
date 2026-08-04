@@ -20,24 +20,6 @@
       "avios": {
         "M": 4500
       }
-    },
-    {
-      "flightNumbers": [
-        "EI276"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "18:50",
-      "arrive": "19:55",
-      "peak": "peak",
-      "seats": {
-        "M": 1
-      },
-      "avios": {
-        "M": 4500
-      }
     }
   ]
 }
