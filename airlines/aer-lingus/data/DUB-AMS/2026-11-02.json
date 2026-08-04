@@ -1,0 +1,79 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI602"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "06:15",
+      "arrive": "08:55",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI604"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "10:00",
+      "arrive": "12:40",
+      "peak": "off-peak",
+      "seats": {
+        "M": 59
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI608"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "13:20",
+      "arrive": "16:00",
+      "peak": "off-peak",
+      "seats": {
+        "M": 8
+      },
+      "avios": {
+        "M": 4000
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI610"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "17:15",
+      "arrive": "19:55",
+      "peak": "off-peak",
+      "seats": {
+        "M": 52
+      },
+      "avios": {
+        "M": 4000
+      }
+    }
+  ]
+}
