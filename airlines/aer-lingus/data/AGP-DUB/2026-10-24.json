@@ -1,0 +1,43 @@
+{
+  "cabinsAvailable": [
+    "M"
+  ],
+  "flights": [
+    {
+      "flightNumbers": [
+        "EI585"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "18:30",
+      "arrive": "20:40",
+      "peak": "off-peak",
+      "seats": {
+        "M": 2
+      },
+      "avios": {
+        "M": 8500
+      }
+    },
+    {
+      "flightNumbers": [
+        "EI589"
+      ],
+      "carriers": [
+        "EI"
+      ],
+      "via": [],
+      "depart": "22:30",
+      "arrive": "00:35",
+      "peak": "off-peak",
+      "seats": {
+        "M": 4
+      },
+      "avios": {
+        "M": 8500
+      }
+    }
+  ]
+}
