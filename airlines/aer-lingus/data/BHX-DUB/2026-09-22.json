@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI263"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "08:10",
-      "arrive": "09:20",
-      "peak": "off-peak",
-      "seats": {
-        "M": 8
-      },
-      "avios": {
-        "M": 4000
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI3273"
-      ],
-      "carriers": [
-        "EA"
-      ],
-      "via": [],
-      "depart": "16:35",
-      "arrive": "17:50",
-      "peak": "off-peak",
-      "seats": {
-        "M": 13
-      },
-      "avios": {
-        "M": 4000
-      }
-    }
   ]
 }
