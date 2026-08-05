@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI393"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "13:25",
-      "arrive": "14:30",
-      "peak": "off-peak",
-      "seats": {
-        "M": 3
-      },
-      "avios": {
-        "M": 6500
-      }
-    }
   ]
 }
