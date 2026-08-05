@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI574"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "18:15",
-      "arrive": "22:05",
-      "peak": "peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 7500
-      }
-    }
   ]
 }
