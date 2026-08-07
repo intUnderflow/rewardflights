@@ -1,25 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI603"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "09:35",
-      "arrive": "10:20",
-      "peak": "peak",
-      "seats": {
-        "M": 14
-      },
-      "avios": {
-        "M": 4500
-      }
-    }
   ]
 }
