@@ -1,43 +1,5 @@
 {
   "cabinsAvailable": [
     "M"
-  ],
-  "flights": [
-    {
-      "flightNumbers": [
-        "EI776"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "06:10",
-      "arrive": "10:30",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 8500
-      }
-    },
-    {
-      "flightNumbers": [
-        "EI778"
-      ],
-      "carriers": [
-        "EI"
-      ],
-      "via": [],
-      "depart": "12:50",
-      "arrive": "17:10",
-      "peak": "off-peak",
-      "seats": {
-        "M": 4
-      },
-      "avios": {
-        "M": 8500
-      }
-    }
   ]
 }
